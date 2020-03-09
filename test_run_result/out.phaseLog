@@ -1,0 +1,8 @@
+platanus_allee version: 2.0.0
+platanus_allee phase -t 1 -tmp . -o out -mapper minimap2 -c out_contig.fa out_junctionKmer.fa -IP1 ../reads/Illumina_PE500/R1.fq ../reads/Illumina_PE500/R2.fq -OP2 ../reads/Illumina_MP3000/R1.fq ../reads/Illumina_MP3000/R2.fq -p ../reads/PacBio/subreads.fq -x ../reads/10X/barcoded.fq 
+
+phase completed!
+
+#### PROCESS INFORMATION ####
+VmPeak:           0.020 GByte
+VmHWM:            0.001 GByte
