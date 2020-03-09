@@ -1,3 +1,6 @@
+For access to further data, please send email/request to: samuellee@sabanciuniv.edu
+
+
 This data sets were prepared to test the installation of Platanus-allee.  
 The input reads were generated from the simulated diploid genome based on the genome of *Mycoplasma genitalium* G37.  
 A script for the test, "run.sh", may be useful as the template for the actual cases.
