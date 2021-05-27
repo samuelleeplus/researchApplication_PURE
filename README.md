@@ -18,6 +18,17 @@ The input reads were generated from the simulated diploid genome based on the ge
 
 # Description of directories
 
+## test_run
+
+Under this directory, you can run the bash script 
+
+```
+run.sh
+```
+
+to get results in *.log, .fasta, .tsv & .bed* files in test_run_results directory. 
+
+
 ## reference_genome
 Simulated diploid genome based on the genome of *Mycoplasma genitalium* G37 (accession, NC_000908.2).  
 The simulator used was pIRS (Hu et al. 2012).
